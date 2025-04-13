@@ -26,6 +26,7 @@
 echo "<h4> start of php experiment !</h4>"
 ?>
 
+<button>click me</button>
 
 </body>
 </html>
